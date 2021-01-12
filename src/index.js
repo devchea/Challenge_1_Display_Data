@@ -54,7 +54,6 @@ function App() {
           <a href={twitterUrl}>{`@${user.twitterUsername}`}</a>
         </p>
       </div>
-
       <ScotchInfoBar />
     </div>
   );
